@@ -4,3 +4,5 @@ cos cos cos
 jdksadhjasdkhajkdhsaskasjak
 jdisfaaafdsaadsadsadsa
 print('hello world p')
+print('hello from development')
+print('hello from master')
