@@ -9,3 +9,6 @@ print('hello from master')
 eeeeeeeeeeeeeee1111
 wwwwwwwwww222
 xdxdxd
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+print('hello world z gik")
+print('hello world z gik - jeszcze raz")
