@@ -1,7 +1,10 @@
+development____11111
+
 sajdknkdansdjaksas
 hello world
 cos cos cos
 jdksadhjasdkhajkdhsaskasjak
+print('hih)
 jdisfaaafdsaadsadsadsa
 print('hello world p')
 print('hello from development')
@@ -10,4 +13,6 @@ eeeeeeeeeeeeeee1111
 wwwwwwwwww222
 xdxdxd
 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
-print('hello world z gik")
+
+zmiana 1
+
